@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[{{ .Get "title"}}]]></title>
+		<description><![CDATA[{{ .Get "description" }}]]></description>
+		<link>{{ .GetR "links" "website" }}</link>
+		<image>
+			<url>{{ .GetR "links" "cover"}}</url>
+			<title>{{ .Get "title" }}</title>
+			<link>{{ .GetR "links" "website" }}</link>
+		</image>
+		<generator>{{ .Get "generator" }}</generator>
+		<lastBuildDate>{{ .BuildDate }}</lastBuildDate>
+		<atom:link href='{{ .GetR "links" "rss" }}' rel="self" type="application/rss+xml"/>
+		<author><![CDATA[{{ .Get "author" }}]]></author>
+		<copyright><![CDATA[{{ .Get "author" }}]]></copyright>
+		<language><![CDATA[{{ .Get "language" }}]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>{{ .Get "author" }}</itunes:author>
+		<itunes:summary>{{ .Get "description" }}</itunes:summary>
+		<itunes:type>{{ .Get "type" }}</itunes:type>
+		<itunes:owner>
+			<itunes:name>{{ .Get "author" }}</itunes:name>
+			<itunes:email>{{ .Get "email" }}</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>{{ if .Get "explicit" }}Yes{{else}}No{{end}}</itunes:explicit>
+		<itunes:category text='{{ .Get "category" }}'/>
+		<itunes:image href='{{ .GetR "links" "cover"}}'/>
+{{ range $item := .Get "episodes" }}
+		<item>
+			<title><![CDATA[{{ $.GetEp $item "title" }}]]></title>
+			<description><![CDATA[{{ $.GetEp $item "description" }}]]></description>
+			<link>{{ $.GetR "links" "website" }}</link>
+			<guid isPermaLink="false">{{ $.GetEp $item "guid" }}</guid>
+			<dc:creator><![CDATA[{{ $.Get "author" }}]]></dc:creator>
+			<pubDate>{{ $.GetEp $item "pubDate" }}</pubDate>
+			<enclosure url='{{ $.GetEpPath $item "content" }}' length='{{ $.GetEp $item "contentLength" }}' type='{{ $.GetEp $item "contentMimeType" }}'/>
+			<itunes:summary>{{ $.GetEpEscape $item "description"}}</itunes:summary>
+			<itunes:explicit>{{ if $.GetEp $item "explicit" }}Yes{{else}}No{{end}}</itunes:explicit>
+			<itunes:duration>{{ $.GetEp $item "duration" }}</itunes:duration>
+			<itunes:image href='{{ $.GetEpPath $item "cover" }}'/>
+			<itunes:season>{{ $.GetEp $item "season" }}</itunes:season>
+			<itunes:episode>{{ $.GetEp $item "episode" }}</itunes:episode>
+			<itunes:episodeType>{{ $.GetEp $item "episodeType" }}</itunes:episodeType>
+		</item>
+{{ end }}
+	</channel>
+</rss>
