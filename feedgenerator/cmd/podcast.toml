@@ -16,30 +16,16 @@ category = "Technology"
 
 [links]
 website = "https://raaminz.github.io/compilepodcast"
-rss = "https://raw.githubusercontent.com/raaminz/compilepodcast/main/feed.rss"
-cover = "https://raw.githubusercontent.com/raaminz/compilepodcast/main/episodes/cover.jpg"
+rss = "https://raw.githubusercontent.com/raaminz/podcast/main/feed.rss"
+cover = "https://raw.githubusercontent.com/raaminz/podcast/main/cover.jpg"
 
 
 [episodeDefaults]
 content = "http://pod.codingwithramin.mail-page.com.user.fm/{path}/content.mp3"
 contentMimeType = "audio/mpeg"
-cover = "https://raw.githubusercontent.com/raaminz/compilepodcast/main/episodes/{path}/content.jpg"
+cover = "https://raw.githubusercontent.com/raaminz/podcast/main/episodes/{path}/cover.jpg"
 episodeType = "full"
 explicit = false
-
-## Episode template
-# [[episodes]]
-# title = ""
-# path= ""
-# contentLength =
-# guid= ""
-# pubDate= ""
-# duration =
-# season =
-# episode =
-# description = """
-
-# """
 
 [[episodes]]
 title = "نگاه اجمالی به کتاب تست چابک (Agile Testing)"
@@ -383,8 +369,8 @@ description = """
 """
 
 [[episodes]]
-title = "Effective DevOps - Part 1 (What's not the DevOps!?)"
-path= "11 - Effective DevOps - Part 1 (What is not the DevOps!?)"
+title = "Effective DevOps - Part 1 (What's not the DevOps)"
+path= "11 - Effective DevOps - Part 1 (What is not the DevOps)"
 contentLength =24440765
 guid= "a69f10ae-27b3-7fcf-51f8-935862911ae1"
 pubDate= "Mon, 08 Jul 2019 22:19:37 GMT"
@@ -411,7 +397,7 @@ description = """
 
 [[episodes]]
 title = "Introduction to Groovy Language"
-path=  "09 - Introduction to Groovy Language0"
+path=  "09 - Introduction to Groovy Language"
 contentLength =42396525
 guid= "639722d8-0a6e-6a8e-58e9-90d6c1b87cb2"
 pubDate= "Sun, 14 Apr 2019 20:45:42 GMT"
