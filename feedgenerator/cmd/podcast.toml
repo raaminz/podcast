@@ -17,13 +17,13 @@ category = "Technology"
 [links]
 website = "https://raaminz.github.io/compilepodcast"
 rss = "https://raw.githubusercontent.com/raaminz/podcast/main/feed.rss"
-cover = "https://raw.githubusercontent.com/raaminz/podcast/main/cover.jpg"
+cover = "https://f005.backblazeb2.com/file/compilepodcast/cover.jpg"
 
 
 [episodeDefaults]
-content = "http://pod.codingwithramin.mail-page.com.user.fm/{path}/content.mp3"
+content = "https://f005.backblazeb2.com/file/compilepodcast/{path}/content.mp3"
 contentMimeType = "audio/mpeg"
-cover = "https://raw.githubusercontent.com/raaminz/podcast/main/episodes/{path}/cover.jpg"
+cover = "https://f005.backblazeb2.com/file/compilepodcast/{path}/cover.jpg"
 episodeType = "full"
 explicit = false
 
