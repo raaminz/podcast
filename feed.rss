@@ -6,12 +6,12 @@
 دنیای برنامه نویسی یه دنیاییه که هر کد نویسی یه سفر متفاوتی توش تجربه میکنه ، پر از جذابیت ها و شکست ها. این پادکست راجع به سفر شخصی خودم هست، مواردی که ذهنم را مشغول کرده و دغدغه ی ذهنی من بوده.]]></description>
 		<link>https://raaminz.github.io/compilepodcast</link>
 		<image>
-			<url>https://f005.backblazeb2.com/file/compilepodcast/cover.jpg</url>
+			<url>https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg</url>
 			<title>Compile Podcast / پادکست کامپایل</title>
 			<link>https://raaminz.github.io/compilepodcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Tue, 04 Apr 2023 19:52:53 GMT</lastBuildDate>
+		<lastBuildDate>Mon, 10 Apr 2023 19:52:22 GMT</lastBuildDate>
 		<atom:link href='https://raw.githubusercontent.com/raaminz/podcast/main/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -28,7 +28,7 @@
 		</itunes:owner>
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text='Technology'/>
-		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover.jpg'/>
+		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
 
 		<item>
 			<title><![CDATA[نگاه اجمالی به کتاب تست چابک (Agile Testing)]]></title>
