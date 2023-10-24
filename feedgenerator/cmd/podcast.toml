@@ -26,6 +26,28 @@ contentMimeType = "audio/mpeg"
 cover = "https://f005.backblazeb2.com/file/compilepodcast/{path}/cover.jpg"
 episodeType = "full"
 explicit = false
+# duration is in second
+duration = 0
+
+[[episodes]]
+title = "Cloud Native - Part 1"
+path= "32 - cloud native - part 1"
+contentLength = 1258479616
+guid= "439420f6-7d95-4fbf-b55e-29215fe895e9"
+pubDate= "Tue, 24 Oct 2023 19:00:00 GMT"
+duration = 3787
+season = 4
+episode = 9
+description = """
+در این قسمت از پادکست، در مورد کتاب "Cloud Native" از O'reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. این اپیزود اولین گام در فهم عمیق‌تر معماری ابری و کاربردی در دنیای تکنولوژی امروز است. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم "Cloud Native" پیدا کنید.
+
+"Songs:
+'I knew a Guy', 'Backed Vibes Clean', 'AcidJazz', 'Dances and Dames',
+'Faster Does It' by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/"
+"""
+
+
+
 
 [[episodes]]
 title = "نگاه اجمالی به کتاب تست چابک (Agile Testing)"
@@ -52,7 +74,7 @@ path= "29 - JUnit 5 Tutorial معرفی"
 contentLength = 60282033
 guid= "939d1251-4b44-4e48-9790-e783ef71535f"
 pubDate= "Sat, 29 Jan 2022 13:04:03 GMT"
-duration = 60282033
+duration = 2512
 season = 4
 episode = 7
 description = """
