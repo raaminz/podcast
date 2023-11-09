@@ -29,6 +29,28 @@ explicit = false
 # duration is in second
 duration = 0
 
+
+[[episodes]]
+title = "Cloud Native - Part 2"
+path= "33 - cloud native - part 2"
+contentLength = 612368384
+guid= "ba97b174-da72-4fb0-a90e-f1596e564088"
+pubDate= "Tue, 09 Nov 2023 22:00:00 GMT"
+duration = 4868
+season = 4
+episode = 10
+description = """
+<p dir="rtl">
+  <p>در بخش دوم به بررسی الگوهای طراحی، دیتا و DevOps در دنیای "Cloud Native" میپردازیم.</p>
+  <p>موضوعات مختلفی در این بخش مورد بررسی قرار میگیرند، از جمله gateway ها، روش‌های ارتباطی بین سرویس ها،  انواع دیتابیس ها، مانیتورینگ. </p>
+  <p>این مباحث نقش مهمی در فهم مفاهیم "Cloud Native" و استفاده بهینه از این تکنولوژی دارند.</p>
+  <p>این آخرین بخش از بررسی کتاب "Cloud Native" است.</p>
+</p>
+"Songs:
+'I knew a Guy', 'Backed Vibes Clean', 'AcidJazz', 'Dances and Dames',
+'Faster Does It' by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/"
+"""
+
 [[episodes]]
 title = "Cloud Native - Part 1"
 path= "32 - cloud native - part 1"
@@ -39,20 +61,19 @@ duration = 3787
 season = 4
 episode = 9
 description = """
-در این قسمت از پادکست، در مورد کتاب "Cloud Native" از O'reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. این اپیزود اولین گام در فهم عمیق‌تر معماری ابری و کاربردی در دنیای تکنولوژی امروز است. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم "Cloud Native" پیدا کنید.
+<p dir="rtl">
+در این قسمت از پادکست، در مورد کتاب "Cloud Native" از O'reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم "Cloud Native" پیدا کنید.
+</p>
 
 "Songs:
 'I knew a Guy', 'Backed Vibes Clean', 'AcidJazz', 'Dances and Dames',
 'Faster Does It' by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/"
 """
 
-
-
-
 [[episodes]]
 title = "نگاه اجمالی به کتاب تست چابک (Agile Testing)"
 path= "30 - نگاه اجمالی به کتاب تست چابک (Agile Testing)"
-contentLength = 125633718
+contentLength = 439563264
 guid= "5b6b17e8-60ac-47c8-a792-5c88db78391f"
 pubDate= "Tue, 15 Feb 2022 06:00:00 GMT"
 duration = 5234

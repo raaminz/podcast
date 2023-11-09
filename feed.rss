@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Tue, 24 Oct 2023 20:42:47 GMT</lastBuildDate>
+		<lastBuildDate>Thu, 09 Nov 2023 22:49:39 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -31,8 +31,36 @@
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
 
 		<item>
+			<title><![CDATA[Cloud Native - Part 2]]></title>
+			<description><![CDATA[<p dir="rtl">
+  <p>در بخش دوم به بررسی الگوهای طراحی، دیتا و DevOps در دنیای "Cloud Native" میپردازیم.</p>
+  <p>موضوعات مختلفی در این بخش مورد بررسی قرار میگیرند، از جمله gateway ها، روش‌های ارتباطی بین سرویس ها،  انواع دیتابیس ها، مانیتورینگ. </p>
+  <p>این مباحث نقش مهمی در فهم مفاهیم "Cloud Native" و استفاده بهینه از این تکنولوژی دارند.</p>
+  <p>این آخرین بخش از بررسی کتاب "Cloud Native" است.</p>
+</p>
+"Songs:
+'I knew a Guy', 'Backed Vibes Clean', 'AcidJazz', 'Dances and Dames',
+'Faster Does It' by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/"
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">ba97b174-da72-4fb0-a90e-f1596e564088</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Tue, 09 Nov 2023 22:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/33%20-%20cloud%20native%20-%20part%202/content.mp3' length='612368384' type='audio/mpeg'/>
+			<itunes:summary>&lt;p dir=&#34;rtl&#34;&gt;&#xA;  &lt;p&gt;در بخش دوم به بررسی الگوهای طراحی، دیتا و DevOps در دنیای &#34;Cloud Native&#34; میپردازیم.&lt;/p&gt;&#xA;  &lt;p&gt;موضوعات مختلفی در این بخش مورد بررسی قرار میگیرند، از جمله gateway ها، روش‌های ارتباطی بین سرویس ها،  انواع دیتابیس ها، مانیتورینگ. &lt;/p&gt;&#xA;  &lt;p&gt;این مباحث نقش مهمی در فهم مفاهیم &#34;Cloud Native&#34; و استفاده بهینه از این تکنولوژی دارند.&lt;/p&gt;&#xA;  &lt;p&gt;این آخرین بخش از بررسی کتاب &#34;Cloud Native&#34; است.&lt;/p&gt;&#xA;&lt;/p&gt;&#xA;&#34;Songs:&#xA;&#39;I knew a Guy&#39;, &#39;Backed Vibes Clean&#39;, &#39;AcidJazz&#39;, &#39;Dances and Dames&#39;,&#xA;&#39;Faster Does It&#39; by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/&#34;&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>4868</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/33%20-%20cloud%20native%20-%20part%202/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+		<item>
 			<title><![CDATA[Cloud Native - Part 1]]></title>
-			<description><![CDATA[در این قسمت از پادکست، در مورد کتاب "Cloud Native" از O'reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. این اپیزود اولین گام در فهم عمیق‌تر معماری ابری و کاربردی در دنیای تکنولوژی امروز است. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم "Cloud Native" پیدا کنید.
+			<description><![CDATA[<p dir="rtl">
+در این قسمت از پادکست، در مورد کتاب "Cloud Native" از O'reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم "Cloud Native" پیدا کنید.
+</p>
 
 "Songs:
 'I knew a Guy', 'Backed Vibes Clean', 'AcidJazz', 'Dances and Dames',
@@ -43,7 +71,7 @@
 			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
 			<pubDate>Tue, 24 Oct 2023 19:00:00 GMT</pubDate>
 			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/32%20-%20cloud%20native%20-%20part%201/content.mp3' length='1258479616' type='audio/mpeg'/>
-			<itunes:summary>در این قسمت از پادکست، در مورد کتاب &#34;Cloud Native&#34; از O&#39;reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. این اپیزود اولین گام در فهم عمیق‌تر معماری ابری و کاربردی در دنیای تکنولوژی امروز است. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم &#34;Cloud Native&#34; پیدا کنید.&#xA;&#xA;&#34;Songs:&#xA;&#39;I knew a Guy&#39;, &#39;Backed Vibes Clean&#39;, &#39;AcidJazz&#39;, &#39;Dances and Dames&#39;,&#xA;&#39;Faster Does It&#39; by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/&#34;&#xA;</itunes:summary>
+			<itunes:summary>&lt;p dir=&#34;rtl&#34;&gt;&#xA;در این قسمت از پادکست، در مورد کتاب &#34;Cloud Native&#34; از O&#39;reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم &#34;Cloud Native&#34; پیدا کنید.&#xA;&lt;/p&gt;&#xA;&#xA;&#34;Songs:&#xA;&#39;I knew a Guy&#39;, &#39;Backed Vibes Clean&#39;, &#39;AcidJazz&#39;, &#39;Dances and Dames&#39;,&#xA;&#39;Faster Does It&#39; by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/&#34;&#xA;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>3787</itunes:duration>
 			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/32%20-%20cloud%20native%20-%20part%201/cover.jpg'/>
@@ -66,7 +94,7 @@ https://podcastindex.org/podcast/3624781
 			<guid isPermaLink="false">5b6b17e8-60ac-47c8-a792-5c88db78391f</guid>
 			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
 			<pubDate>Tue, 15 Feb 2022 06:00:00 GMT</pubDate>
-			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/30%20-%20%D9%86%DA%AF%D8%A7%D9%87%20%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C%20%D8%A8%D9%87%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%AA%D8%B3%D8%AA%20%DA%86%D8%A7%D8%A8%DA%A9%20%28Agile%20Testing%29/content.mp3' length='125633718' type='audio/mpeg'/>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/30%20-%20%D9%86%DA%AF%D8%A7%D9%87%20%D8%A7%D8%AC%D9%85%D8%A7%D9%84%DB%8C%20%D8%A8%D9%87%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%AA%D8%B3%D8%AA%20%DA%86%D8%A7%D8%A8%DA%A9%20%28Agile%20Testing%29/content.mp3' length='439563264' type='audio/mpeg'/>
 			<itunes:summary>&#x9;&#x9;&#x9;این یک اپیزود مشترک با پدرام کشاورزی از پادکست اجایل گپ است که سعی کردیم راجع به موضوع تست در اجایل صحبت کنیم. پدرام خودش مربی اجایل و اسکرام مستره و توی پادکستش اطلاعات خوبی در مورد توسعه چابک میتونید پیدا کنید. بهتون پیشنهاد میکنم حتما به پادکستش سر بزنید. اما توی این اپیزود یک کتاب را به شکل اجمالی بررسی کردیم، کتابی که موضوعش در رابطه با همین عنوان این اپیزود است. امیدوارم که خوشتون بیاد&#xA;&#xA;تدوین: پدرام کشاورزی &#xA;طراح پوستر: سید محمد حسین بطحایی&#xA;&#xA;لینک پادکست اجایل گپ&#xA;https://podcastindex.org/podcast/3624781&#xA;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>5234</itunes:duration>
