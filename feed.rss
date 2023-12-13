@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Thu, 09 Nov 2023 22:49:39 GMT</lastBuildDate>
+		<lastBuildDate>Wed, 13 Dec 2023 21:24:55 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -31,6 +31,40 @@
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
 
 		<item>
+			<title><![CDATA[About Golang]]></title>
+			<description><![CDATA[در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
+
+Links:
+Which programming language is fastest?
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+
+Using Zig | My Initial Thoughts on Ziglang
+https://youtu.be/VU1h-h9doS8
+
+Gopherfest 2015 | Go Proverbs with Rob Pike
+https://youtu.be/PAAkCSZUG1c
+
+Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman
+https://youtu.be/RrMptmNYkSw
+
+"Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">5de41bbd-7161-49db-a828-93cab86db9a7</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Wed, 13 Dec 2023 21:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/34%20-%20about%20golang/content.mp3' length='32472443' type='audio/mpeg'/>
+			<itunes:summary>در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی &#34;گولنگ&#34; صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم&#xA;&#xA;Links:&#xA;Which programming language is fastest?&#xA;https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html&#xA;&#xA;Using Zig | My Initial Thoughts on Ziglang&#xA;https://youtu.be/VU1h-h9doS8&#xA;&#xA;Gopherfest 2015 | Go Proverbs with Rob Pike&#xA;https://youtu.be/PAAkCSZUG1c&#xA;&#xA;Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman&#xA;https://youtu.be/RrMptmNYkSw&#xA;&#xA;&#34;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2706</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/34%20-%20about%20golang/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+		<item>
 			<title><![CDATA[Cloud Native - Part 2]]></title>
 			<description><![CDATA[<p dir="rtl">
   <p>در بخش دوم به بررسی الگوهای طراحی، دیتا و DevOps در دنیای "Cloud Native" میپردازیم.</p>
@@ -46,7 +80,7 @@
 			<guid isPermaLink="false">ba97b174-da72-4fb0-a90e-f1596e564088</guid>
 			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
 			<pubDate>Tue, 09 Nov 2023 22:00:00 GMT</pubDate>
-			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/33%20-%20cloud%20native%20-%20part%202/content.mp3' length='612368384' type='audio/mpeg'/>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/33%20-%20cloud%20native%20-%20part%202/content.mp3' length='58424111' type='audio/mpeg'/>
 			<itunes:summary>&lt;p dir=&#34;rtl&#34;&gt;&#xA;  &lt;p&gt;در بخش دوم به بررسی الگوهای طراحی، دیتا و DevOps در دنیای &#34;Cloud Native&#34; میپردازیم.&lt;/p&gt;&#xA;  &lt;p&gt;موضوعات مختلفی در این بخش مورد بررسی قرار میگیرند، از جمله gateway ها، روش‌های ارتباطی بین سرویس ها،  انواع دیتابیس ها، مانیتورینگ. &lt;/p&gt;&#xA;  &lt;p&gt;این مباحث نقش مهمی در فهم مفاهیم &#34;Cloud Native&#34; و استفاده بهینه از این تکنولوژی دارند.&lt;/p&gt;&#xA;  &lt;p&gt;این آخرین بخش از بررسی کتاب &#34;Cloud Native&#34; است.&lt;/p&gt;&#xA;&lt;/p&gt;&#xA;&#34;Songs:&#xA;&#39;I knew a Guy&#39;, &#39;Backed Vibes Clean&#39;, &#39;AcidJazz&#39;, &#39;Dances and Dames&#39;,&#xA;&#39;Faster Does It&#39; by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/&#34;&#xA;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>4868</itunes:duration>
@@ -70,7 +104,7 @@
 			<guid isPermaLink="false">439420f6-7d95-4fbf-b55e-29215fe895e9</guid>
 			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
 			<pubDate>Tue, 24 Oct 2023 19:00:00 GMT</pubDate>
-			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/32%20-%20cloud%20native%20-%20part%201/content.mp3' length='1258479616' type='audio/mpeg'/>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/32%20-%20cloud%20native%20-%20part%201/content.mp3' length='60606331' type='audio/mpeg'/>
 			<itunes:summary>&lt;p dir=&#34;rtl&#34;&gt;&#xA;در این قسمت از پادکست، در مورد کتاب &#34;Cloud Native&#34; از O&#39;reilly صحبت می‌کنیم. در اپیزود اول، به بررسی اپلیکیشن‌های Cloud Native می‌پردازیم، اصول و فناوری‌های مرتبط با آن را مرور می‌کنیم. در اینجا، اصول اولیه و فناوری‌های کلیدی که برای بنیان‌گذاری یک برنامه Cloud Native  لازم است، بیان می‌شود. در کل، این قسمت به شما کمک می‌کند تا درک بهتری از مفهوم &#34;Cloud Native&#34; پیدا کنید.&#xA;&lt;/p&gt;&#xA;&#xA;&#34;Songs:&#xA;&#39;I knew a Guy&#39;, &#39;Backed Vibes Clean&#39;, &#39;AcidJazz&#39;, &#39;Dances and Dames&#39;,&#xA;&#39;Faster Does It&#39; by Kevin MacLeod (incompetech.com), Licensed under Creative Commons: By Attribution 3.0 License, http://creativecommons.org/licenses/by/3.0/&#34;&#xA;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>3787</itunes:duration>

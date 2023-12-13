@@ -13,6 +13,7 @@ category = "Technology"
 
 
 ## Variables
+# info : https://help.apple.com/itc/podcasts_connect/#/itcb54353390
 
 [links]
 website = "https://ramin.tech/podcast"
@@ -28,12 +29,42 @@ episodeType = "full"
 explicit = false
 # duration is in second
 duration = 0
+# The length attribute is the file size in bytes
+contentLength = 0
 
+[[episodes]]
+title = "About Golang"
+path= "34 - about golang"
+contentLength = 32472443
+guid= "5de41bbd-7161-49db-a828-93cab86db9a7"
+pubDate= "Wed, 13 Dec 2023 21:00:00 GMT"
+duration = 2706
+season = 4
+episode = 11
+description = """
+در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
+
+Links:
+Which programming language is fastest?
+https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
+
+Using Zig | My Initial Thoughts on Ziglang
+https://youtu.be/VU1h-h9doS8
+
+Gopherfest 2015 | Go Proverbs with Rob Pike
+https://youtu.be/PAAkCSZUG1c
+
+Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman
+https://youtu.be/RrMptmNYkSw
+
+"Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+"""
 
 [[episodes]]
 title = "Cloud Native - Part 2"
 path= "33 - cloud native - part 2"
-contentLength = 612368384
+contentLength = 58424111
 guid= "ba97b174-da72-4fb0-a90e-f1596e564088"
 pubDate= "Tue, 09 Nov 2023 22:00:00 GMT"
 duration = 4868
@@ -54,7 +85,7 @@ description = """
 [[episodes]]
 title = "Cloud Native - Part 1"
 path= "32 - cloud native - part 1"
-contentLength = 1258479616
+contentLength = 60606331
 guid= "439420f6-7d95-4fbf-b55e-29215fe895e9"
 pubDate= "Tue, 24 Oct 2023 19:00:00 GMT"
 duration = 3787
