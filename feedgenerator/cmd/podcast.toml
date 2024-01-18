@@ -57,7 +57,7 @@ https://youtu.be/PAAkCSZUG1c
 Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman
 https://youtu.be/RrMptmNYkSw
 
-"Songs:
+Songs:
 'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
 """
 
@@ -247,26 +247,6 @@ description = """
 <p>youtube.com/RaminZare</p>
 """
 
-
-[[episodes]]
-title = "یک توضیح کوتاه راجع به فصل چهارم پادکست کامپایل"
-path= "22 - یک توضیح کوتاه راجع به فصل چهارم پادکست کامپایل"
-contentLength =3312501
-guid= "8b1b2787-6f01-4383-9e9d-90c5859d9bc7"
-pubDate= "Tue, 02 Mar 2021 23:10:01 GMT"
-duration =206
-season =4
-episode =0
-description = """
-<p>خوش اومدید به فصل چهارم پادکست کامپایل</p>
-<p>در این فصل قصد دارم با اصول تست نرم افزار شروع کنم و در آینده به موضوعات دیگه ای بپردازم</p>
-<p>این فصل را با زمانبندی خاصی منتشر نخواهم کرد و سعی میکنم محتواهای مشترکی هم برای کانال یوتوب و هم پادکست تولید کنم</p>
-<p>شما میتونید با اشتراک گذاری اپیزود ها من را حمایت کنید، همچنین میتونید کانال یوتوب من را مشترک بشید . خیلی متشکرم</p>
-<p><br></p>
-<p>https://www.youtube.com/RaminZare</p>
-"""
-episodeType = "trailer"
-
 [[episodes]]
 title = "آشنایی با مایکروسرویس ها"
 path= "21 - آشنایی با مایکروسرویس ها"
@@ -383,21 +363,6 @@ description = """
 <p>قبل از مهاجرتم وقتی یکی میگفت که داره خارج از ایران کار میکنه اصلاً ایده ای نداشتم که چه فضا و جوی داره؟ کار کردن با غیر ایرانی ها چطوریه و چقدر فرق داره؟ یکی از استرس هام بحث ارتباط برقرار کردن و زبان انگلیسی بود. توی این اپیزود میگم واقعا چقدر این استرس به جا بود و چطوری من تونستم بهش فایق بیام.</p>
 <p>توی اپیزود های بعدی از موارد دیگه ی این تجربه براتون میگم</p>
 """
-
-[[episodes]]
-title = "یک توضیح کوتاه راجع به فصل سوم پادکست کامپایل"
-path= "15 - یک توضیح کوتاه راجع به فصل سوم پادکست کامپایل"
-contentLength =9168535
-guid= "daf918f1-4e5a-4c3d-b5ed-fcfb15fc96be"
-pubDate= "Sun, 03 May 2020 11:48:53 GMT"
-duration =572
-season =3
-episode =0
-description = """
-<p>توضیح کوتاهی راجع به فصل سوم پادکست کامپایل&nbsp;</p>
-<p>فصل جدید کمی راجع به چالش ها و تجربیات کار در یک شرکت خارجی خواهد بود (از منظر من) و بعد دوباره چند اپیزود تکنیکال تر.&nbsp;</p>
-"""
-episodeType = "trailer"
 
 [[episodes]]
 title = "Effective DevOps - Part 4 (تغییر مقیاس)"
