@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Wed, 13 Dec 2023 21:24:55 GMT</lastBuildDate>
+		<lastBuildDate>Fri, 26 Jan 2024 16:27:34 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -31,8 +31,30 @@
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
 
 		<item>
+			<title><![CDATA[Cultrural Intelligence]]></title>
+			<description><![CDATA[هوش فرهنگی به توانایی فرد در درک و کار کردن با افراد از فرهنگهای مختلف اشاره دارد. این شامل درک عمیق از فرهنگهای دیگر، آداب و رسوم، زبان و رفتارهای غیر کلامی و توانایی ارتباط برقرار کردن با افرادی که فرهنگی متفاوت دارند، است.
+این موضوعیه که در یکی از کارگاههای آموزشی که شرکت کرده بودم یاد گرفتم و توی این قسمت با شما به اشترک گذاشتم.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">04f235b6-960e-4bc0-8e04-c2b8b93813d8</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Fri, 26 Jan 2024 15:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/35%20-%20cultural%20intelligence/content.mp3' length='25849148' type='audio/mpeg'/>
+			<itunes:summary>هوش فرهنگی به توانایی فرد در درک و کار کردن با افراد از فرهنگهای مختلف اشاره دارد. این شامل درک عمیق از فرهنگهای دیگر، آداب و رسوم، زبان و رفتارهای غیر کلامی و توانایی ارتباط برقرار کردن با افرادی که فرهنگی متفاوت دارند، است.&#xA;این موضوعیه که در یکی از کارگاههای آموزشی که شرکت کرده بودم یاد گرفتم و توی این قسمت با شما به اشترک گذاشتم.&#xA;&#xA;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2154</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/35%20-%20cultural%20intelligence/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+
+		<item>
 			<title><![CDATA[About Golang]]></title>
-			<description><![CDATA[در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
+			<description><![CDATA[در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت میکنم. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
 
 Links:
 Which programming language is fastest?
@@ -47,7 +69,7 @@ https://youtu.be/PAAkCSZUG1c
 Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman
 https://youtu.be/RrMptmNYkSw
 
-"Songs:
+Songs:
 'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
 ]]></description>
 			<link>https://ramin.tech/podcast</link>
@@ -55,7 +77,7 @@ https://youtu.be/RrMptmNYkSw
 			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
 			<pubDate>Wed, 13 Dec 2023 21:00:00 GMT</pubDate>
 			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/34%20-%20about%20golang/content.mp3' length='32472443' type='audio/mpeg'/>
-			<itunes:summary>در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی &#34;گولنگ&#34; صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم&#xA;&#xA;Links:&#xA;Which programming language is fastest?&#xA;https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html&#xA;&#xA;Using Zig | My Initial Thoughts on Ziglang&#xA;https://youtu.be/VU1h-h9doS8&#xA;&#xA;Gopherfest 2015 | Go Proverbs with Rob Pike&#xA;https://youtu.be/PAAkCSZUG1c&#xA;&#xA;Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman&#xA;https://youtu.be/RrMptmNYkSw&#xA;&#xA;&#34;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:summary>در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی &#34;گولنگ&#34; صحبت میکنم. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم&#xA;&#xA;Links:&#xA;Which programming language is fastest?&#xA;https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html&#xA;&#xA;Using Zig | My Initial Thoughts on Ziglang&#xA;https://youtu.be/VU1h-h9doS8&#xA;&#xA;Gopherfest 2015 | Go Proverbs with Rob Pike&#xA;https://youtu.be/PAAkCSZUG1c&#xA;&#xA;Java was created because of pointer bugs in C／C++ | James Gosling and Lex Fridman&#xA;https://youtu.be/RrMptmNYkSw&#xA;&#xA;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>2706</itunes:duration>
 			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/34%20-%20about%20golang/cover.jpg'/>
@@ -300,29 +322,6 @@ https://podcastindex.org/podcast/3624781
 		</item>
 
 		<item>
-			<title><![CDATA[یک توضیح کوتاه راجع به فصل چهارم پادکست کامپایل]]></title>
-			<description><![CDATA[<p>خوش اومدید به فصل چهارم پادکست کامپایل</p>
-<p>در این فصل قصد دارم با اصول تست نرم افزار شروع کنم و در آینده به موضوعات دیگه ای بپردازم</p>
-<p>این فصل را با زمانبندی خاصی منتشر نخواهم کرد و سعی میکنم محتواهای مشترکی هم برای کانال یوتوب و هم پادکست تولید کنم</p>
-<p>شما میتونید با اشتراک گذاری اپیزود ها من را حمایت کنید، همچنین میتونید کانال یوتوب من را مشترک بشید . خیلی متشکرم</p>
-<p><br></p>
-<p>https://www.youtube.com/RaminZare</p>
-]]></description>
-			<link>https://ramin.tech/podcast</link>
-			<guid isPermaLink="false">8b1b2787-6f01-4383-9e9d-90c5859d9bc7</guid>
-			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
-			<pubDate>Tue, 02 Mar 2021 23:10:01 GMT</pubDate>
-			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/22%20-%20%DB%8C%DA%A9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%DA%A9%D9%88%D8%AA%D8%A7%D9%87%20%D8%B1%D8%A7%D8%AC%D8%B9%20%D8%A8%D9%87%20%D9%81%D8%B5%D9%84%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%84/content.mp3' length='3312501' type='audio/mpeg'/>
-			<itunes:summary>&lt;p&gt;خوش اومدید به فصل چهارم پادکست کامپایل&lt;/p&gt;&#xA;&lt;p&gt;در این فصل قصد دارم با اصول تست نرم افزار شروع کنم و در آینده به موضوعات دیگه ای بپردازم&lt;/p&gt;&#xA;&lt;p&gt;این فصل را با زمانبندی خاصی منتشر نخواهم کرد و سعی میکنم محتواهای مشترکی هم برای کانال یوتوب و هم پادکست تولید کنم&lt;/p&gt;&#xA;&lt;p&gt;شما میتونید با اشتراک گذاری اپیزود ها من را حمایت کنید، همچنین میتونید کانال یوتوب من را مشترک بشید . خیلی متشکرم&lt;/p&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;p&gt;https://www.youtube.com/RaminZare&lt;/p&gt;&#xA;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>206</itunes:duration>
-			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/22%20-%20%DB%8C%DA%A9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%DA%A9%D9%88%D8%AA%D8%A7%D9%87%20%D8%B1%D8%A7%D8%AC%D8%B9%20%D8%A8%D9%87%20%D9%81%D8%B5%D9%84%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%84/cover.jpg'/>
-			<itunes:season>4</itunes:season>
-			<itunes:episode>0</itunes:episode>
-			<itunes:episodeType>trailer</itunes:episodeType>
-		</item>
-
-		<item>
 			<title><![CDATA[آشنایی با مایکروسرویس ها]]></title>
 			<description><![CDATA[<p>توی این اپیزود به طور کلی و مقدماتی از مایکروسرویس ها گفتم. یک معماری ای که از یک سری مفاهیم و راهکارهای قدیمی تر شکل گرفته و الان به بلوغ رسیده. مایکروسرویس ها شبیه به یه فریم ورک یا پلتفرم معمولی نیستند که به راحتی بشه آوردش و استفاده اش کرد، عملاً ساختار سازمان و تیم هاتون را عوض میکنه. تیم ها باید از قبل با فرهنگی مثل تحویل پیوسته (سی دی) آشنایی داشته باشند، زیر ساخت ها باید برای مانیتورینگ و تحویل سریع و مقیاس پذیری آماده باشن. در کل این معماری به درد همه جور فضایی نمیخوره و باید با دید باز اون را انتخاب کرد و چالش هاش را شناخت.</p>
 <p>منبع این اپیزود کتاب زیر است:&nbsp;</p>
@@ -466,25 +465,6 @@ https://podcastindex.org/podcast/3624781
 			<itunes:season>3</itunes:season>
 			<itunes:episode>1</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item>
-
-		<item>
-			<title><![CDATA[یک توضیح کوتاه راجع به فصل سوم پادکست کامپایل]]></title>
-			<description><![CDATA[<p>توضیح کوتاهی راجع به فصل سوم پادکست کامپایل&nbsp;</p>
-<p>فصل جدید کمی راجع به چالش ها و تجربیات کار در یک شرکت خارجی خواهد بود (از منظر من) و بعد دوباره چند اپیزود تکنیکال تر.&nbsp;</p>
-]]></description>
-			<link>https://ramin.tech/podcast</link>
-			<guid isPermaLink="false">daf918f1-4e5a-4c3d-b5ed-fcfb15fc96be</guid>
-			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
-			<pubDate>Sun, 03 May 2020 11:48:53 GMT</pubDate>
-			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/15%20-%20%DB%8C%DA%A9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%DA%A9%D9%88%D8%AA%D8%A7%D9%87%20%D8%B1%D8%A7%D8%AC%D8%B9%20%D8%A8%D9%87%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85%20%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%84/content.mp3' length='9168535' type='audio/mpeg'/>
-			<itunes:summary>&lt;p&gt;توضیح کوتاهی راجع به فصل سوم پادکست کامپایل&amp;nbsp;&lt;/p&gt;&#xA;&lt;p&gt;فصل جدید کمی راجع به چالش ها و تجربیات کار در یک شرکت خارجی خواهد بود (از منظر من) و بعد دوباره چند اپیزود تکنیکال تر.&amp;nbsp;&lt;/p&gt;&#xA;</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>572</itunes:duration>
-			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/15%20-%20%DB%8C%DA%A9%20%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%20%DA%A9%D9%88%D8%AA%D8%A7%D9%87%20%D8%B1%D8%A7%D8%AC%D8%B9%20%D8%A8%D9%87%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85%20%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA%20%DA%A9%D8%A7%D9%85%D9%BE%D8%A7%DB%8C%D9%84/cover.jpg'/>
-			<itunes:season>3</itunes:season>
-			<itunes:episode>0</itunes:episode>
-			<itunes:episodeType>trailer</itunes:episodeType>
 		</item>
 
 		<item>
