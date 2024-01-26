@@ -32,6 +32,24 @@ duration = 0
 # The length attribute is the file size in bytes
 contentLength = 0
 
+
+[[episodes]]
+title = "Cultrural Intelligence"
+path= "35 - cultural intelligence"
+contentLength = 25849148
+guid= "04f235b6-960e-4bc0-8e04-c2b8b93813d8"
+pubDate= "Fri, 26 Jan 2024 15:00:00 GMT"
+duration = 2154
+season = 4
+episode = 12
+description = """
+هوش فرهنگی به توانایی فرد در درک و کار کردن با افراد از فرهنگهای مختلف اشاره دارد. این شامل درک عمیق از فرهنگهای دیگر، آداب و رسوم، زبان و رفتارهای غیر کلامی و توانایی ارتباط برقرار کردن با افرادی که فرهنگی متفاوت دارند، است.
+این موضوعیه که در یکی از کارگاههای آموزشی که شرکت کرده بودم یاد گرفتم و توی این قسمت با شما به اشترک گذاشتم.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+"""
+
 [[episodes]]
 title = "About Golang"
 path= "34 - about golang"
@@ -42,7 +60,7 @@ duration = 2706
 season = 4
 episode = 11
 description = """
-در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت خواهیم کرد. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
+در این قسمت در مورد زبان برنامه‌نویسی گو یا به عبارتی "گولنگ" صحبت میکنم. این قسمت شامل بحث و تبادل نظر در مورد تاریخچه، مزایا و کاربردهای این زبان برنامه نویسی منعطف و قدرتمند است. همچنین به بخش کوتاهی در رابطه با حاشیه های این زبان میپردازم و اینکه چطور خودم شروع به یادگیری اون کردم
 
 Links:
 Which programming language is fastest?
