@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Fri, 26 Jan 2024 16:27:34 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 10 Mar 2024 15:16:29 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -29,6 +29,29 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text='Technology'/>
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
+
+		<item>
+			<title><![CDATA[GNU Emacs - ویرایشگر ایمکس]]></title>
+			<description><![CDATA[ایمکس خانواده‌ای از ویرایشگرهای متن  است که قابل سفارشی سازی و گسترش دارند و به همین دلیل بیش از ویرایشگر متن ساده هستند.
+نوآوری کلیدی GNU Emacs ادغام یک مفسر Lisp (Emacs Lisp) برای زبان اسکریپت نویسی و گسترش بود، که به کاربران اجازه داد تا به راحتی ویرایشگر را تغییر دهند. در طول سال‌ها، Emacs هزاران تابع داخلی جمع‌آوری کرده و یک سیستم بزرگ از بسته‌های کاربری را در اختیار قرار داده است.
+همچنین به تجربه میتوان گفت استفاده از ویرايشگری مثل Emacs میتواند روی سرعت تولید کد شما هم اثر زیادی بگذارد، از آنجایی که شما را روی کار اصلی و ویرایش متون متمرکز میکند و با کمک کلید های کیبورد کمتر احتیاج به موس خواهید داشت.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">1d83f452-7ec3-4b5b-9928-a353e79f44b6</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Sun, 10 Mar 2024 14:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/36%20-%20GNU%20Emacs/content.mp3' length='35385797' type='audio/mpeg'/>
+			<itunes:summary>ایمکس خانواده‌ای از ویرایشگرهای متن  است که قابل سفارشی سازی و گسترش دارند و به همین دلیل بیش از ویرایشگر متن ساده هستند.&#xA;نوآوری کلیدی GNU Emacs ادغام یک مفسر Lisp (Emacs Lisp) برای زبان اسکریپت نویسی و گسترش بود، که به کاربران اجازه داد تا به راحتی ویرایشگر را تغییر دهند. در طول سال‌ها، Emacs هزاران تابع داخلی جمع‌آوری کرده و یک سیستم بزرگ از بسته‌های کاربری را در اختیار قرار داده است.&#xA;همچنین به تجربه میتوان گفت استفاده از ویرايشگری مثل Emacs میتواند روی سرعت تولید کد شما هم اثر زیادی بگذارد، از آنجایی که شما را روی کار اصلی و ویرایش متون متمرکز میکند و با کمک کلید های کیبورد کمتر احتیاج به موس خواهید داشت.&#xA;&#xA;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2948</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/36%20-%20GNU%20Emacs/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 
 		<item>
 			<title><![CDATA[Cultrural Intelligence]]></title>

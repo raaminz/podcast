@@ -32,6 +32,24 @@ duration = 0
 # The length attribute is the file size in bytes
 contentLength = 0
 
+[[episodes]]
+
+title = "GNU Emacs - ویرایشگر ایمکس"
+path= "36 - GNU Emacs"
+contentLength = 35385797
+guid= "1d83f452-7ec3-4b5b-9928-a353e79f44b6"
+pubDate= "Sun, 10 Mar 2024 14:00:00 GMT"
+duration = 2948
+season = 4
+episode = 13
+description = """
+ایمکس خانواده‌ای از ویرایشگرهای متن  است که قابل سفارشی سازی و گسترش دارند و به همین دلیل بیش از ویرایشگر متن ساده هستند.
+نوآوری کلیدی GNU Emacs ادغام یک مفسر Lisp (Emacs Lisp) برای زبان اسکریپت نویسی و گسترش بود، که به کاربران اجازه داد تا به راحتی ویرایشگر را تغییر دهند. در طول سال‌ها، Emacs هزاران تابع داخلی جمع‌آوری کرده و یک سیستم بزرگ از بسته‌های کاربری را در اختیار قرار داده است.
+همچنین به تجربه میتوان گفت استفاده از ویرايشگری مثل Emacs میتواند روی سرعت تولید کد شما هم اثر زیادی بگذارد، از آنجایی که شما را روی کار اصلی و ویرایش متون متمرکز میکند و با کمک کلید های کیبورد کمتر احتیاج به موس خواهید داشت.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+"""
 
 [[episodes]]
 title = "Cultrural Intelligence"
