@@ -33,7 +33,22 @@ duration = 0
 contentLength = 0
 
 [[episodes]]
+title = "حریم خصوصی در اینترنت 2"
+path= "37 - privacy in internet2"
+contentLength = 29811383
+guid= "415f3a36-0887-41ef-82e2-b4d0655151e3"
+pubDate= "Tue, 09 Apr 2024 18:00:00 GMT"
+duration = 2484
+season = 4
+episode = 14
+description = """
+توی قسمت های خیلی قبل راجع به حریم خصوصی در اینترنت صحبت کرده بودم ولی فکر کردم بد نیست بازم اطلاعات بیشتری که به دست آوردم هم براتون اینجا بگم. هدفم بیشتر آگاه شدن از اهمیت موضوعه.
 
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+"""
+
+[[episodes]]
 title = "GNU Emacs - ویرایشگر ایمکس"
 path= "36 - GNU Emacs"
 contentLength = 35385797

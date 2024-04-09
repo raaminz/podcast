@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Sun, 10 Mar 2024 18:39:08 GMT</lastBuildDate>
+		<lastBuildDate>Tue, 09 Apr 2024 19:40:41 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -29,6 +29,27 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text='Technology'/>
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
+
+		<item>
+			<title><![CDATA[حریم خصوصی در اینترنت 2]]></title>
+			<description><![CDATA[توی قسمت های خیلی قبل راجع به حریم خصوصی در اینترنت صحبت کرده بودم ولی فکر کردم بد نیست بازم اطلاعات بیشتری که به دست آوردم هم براتون اینجا بگم. هدفم بیشتر آگاه شدن از اهمیت موضوعه.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">415f3a36-0887-41ef-82e2-b4d0655151e3</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Tue, 09 Apr 2024 18:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/37%20-%20privacy%20in%20internet2/content.mp3' length='29811383' type='audio/mpeg'/>
+			<itunes:summary>توی قسمت های خیلی قبل راجع به حریم خصوصی در اینترنت صحبت کرده بودم ولی فکر کردم بد نیست بازم اطلاعات بیشتری که به دست آوردم هم براتون اینجا بگم. هدفم بیشتر آگاه شدن از اهمیت موضوعه.&#xA;&#xA;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2484</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/37%20-%20privacy%20in%20internet2/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 
 		<item>
 			<title><![CDATA[GNU Emacs - ویرایشگر ایمکس]]></title>
