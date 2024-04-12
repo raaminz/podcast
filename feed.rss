@@ -11,7 +11,7 @@
 			<link>https://ramin.tech/podcast</link>
 		</image>
 		<generator>Myself :)</generator>
-		<lastBuildDate>Tue, 09 Apr 2024 19:40:41 GMT</lastBuildDate>
+		<lastBuildDate>Sun, 14 Apr 2024 19:43:34 GMT</lastBuildDate>
 		<atom:link href='https://ramin.tech/podcast/feed.rss' rel="self" type="application/rss+xml"/>
 		<author><![CDATA[Ramin Zare]]></author>
 		<copyright><![CDATA[Ramin Zare]]></copyright>
@@ -29,6 +29,28 @@
 		<itunes:explicit>No</itunes:explicit>
 		<itunes:category text='Technology'/>
 		<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/cover2.jpg'/>
+
+		<item>
+			<title><![CDATA[آخرین قسمت از پادکست کامپایل]]></title>
+			<description><![CDATA[سلام دوستان. این آخرین قسمت از پادکست کامپایله. خیلی خوشحالم که تا اینجا شنونده بودید و افتخار میکنم به خودم اگر تونستم محتوایی تولید کنم که دوست داشتید و مفید بوده براتون. به هر حال زمان زیادیه که پادکست را شروع کردم و الان دیگه فکر میکنم وقتشه که باهاش خداحافظی کنم. توی این بخش چند تا مطلب اضافی هم از تجربیات شخصی ام گفتم.
+موفق و پیروز باشید.
+
+Songs:
+'The Unfathomable Deep' by Aldous Ichnite and 'Bounce' by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/
+]]></description>
+			<link>https://ramin.tech/podcast</link>
+			<guid isPermaLink="false">9f685902-1f50-4b9c-8967-c335d9293f7a</guid>
+			<dc:creator><![CDATA[Ramin Zare]]></dc:creator>
+			<pubDate>Tue, 18 Apr 2024 19:00:00 GMT</pubDate>
+			<enclosure url='https://f005.backblazeb2.com/file/compilepodcast/38%20-%20last%20episode/content.mp3' length='18118375' type='audio/mpeg'/>
+			<itunes:summary>سلام دوستان. این آخرین قسمت از پادکست کامپایله. خیلی خوشحالم که تا اینجا شنونده بودید و افتخار میکنم به خودم اگر تونستم محتوایی تولید کنم که دوست داشتید و مفید بوده براتون. به هر حال زمان زیادیه که پادکست را شروع کردم و الان دیگه فکر میکنم وقتشه که باهاش خداحافظی کنم. توی این بخش چند تا مطلب اضافی هم از تجربیات شخصی ام گفتم.&#xA;موفق و پیروز باشید.&#xA;&#xA;Songs:&#xA;&#39;The Unfathomable Deep&#39; by Aldous Ichnite and &#39;Bounce&#39; by Kirk Osamayo (https://freemusicarchive.org), licensed under Creative Commons: By Attribution 4.0 International License, https://creativecommons.org/licenses/by/4.0/&#xA;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1509</itunes:duration>
+			<itunes:image href='https://f005.backblazeb2.com/file/compilepodcast/38%20-%20last%20episode/cover.jpg'/>
+			<itunes:season>4</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
 
 		<item>
 			<title><![CDATA[حریم خصوصی در اینترنت 2]]></title>
